@@ -1,0 +1,25 @@
+Pandas Lesson - Notes
+
+my_list = [1,3,5]
+# [1,3,5]
+
+type(list)
+# list
+
+my_list[1]
+# 3
+
+pd.Series(my_list)
+
+type(my_series)
+# pandas.core.series.Series
+
+my_series
+# 0	1
+# 1	3
+# 2	5
+# type:	int64
+
+
+
+
